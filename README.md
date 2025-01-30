@@ -1,25 +1,26 @@
 
-Installation information
-=======
+ACRANIVM
+=============================================================================
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+Acranivm is a planned Minecraft mod started in the version 1.21.1.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+It features customizable magic weapons, armors and trinkets that provide both active and passive spells obtained through 
+rituals. Rituals are planned to be multi-step processes that require both knowledge seeking and exploration to gather the necessary
+ingredients to perform a successful ritual.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+PLANNED FEATURES
+-----------------------------------------------------------------------------
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+- Customizable weapons that are engraved by powerful spells.
+- Armor sets that provide general and specific resistances depending on player choice.
+- Trinkets that provide powerful buffs to players. The trinkets can be modified.
+- Items will be crafted mostly through custom processes known as rituals.
+- Dungeons with new mobs and bosses.
+- Custom pets used for combat (constructs and summoned creatures, still thinking if automation through mobs should be a possibility).
+- Spells that can be turned into custom enchants for existing MC items.
+
+CONTACT
+-----------------------------------------------------------------------------
+
+Feel free to reach out on Discord @mateoks
